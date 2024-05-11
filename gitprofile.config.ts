@@ -59,17 +59,17 @@ const CONFIG = {
   social: {
     linkedin: 'Zihan (Emma) Xu',
     twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: 'Emmaaaa Xu',
+    instagram: 'emmaxustar',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: '',
     dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
