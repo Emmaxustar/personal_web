@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Zihan (Emma) Xu',
+    linkedin: 'Emma Xu',
     twitter: 'arif_szn',
     mastodon: '',
     researchGate: '',
